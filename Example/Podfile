@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'mezzo-core_Example' do
+  pod 'mezzo-core', :path => '../'
+
+  target 'mezzo-core_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
