@@ -1,0 +1,22 @@
+{
+  "name": "mezzo-core",
+  "version": "0.1.0",
+  "summary": "A short description of mezzo-core.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/neon0619@gmail.com/mezzo-core",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "neon0619@gmail.com": "christopher.castillo@mvp.net.ph"
+  },
+  "source": {
+    "git": "https://github.com/neon0619@gmail.com/mezzo-core.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "mezzo-core/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module mezzo_core {
+  umbrella header "mezzo-core-umbrella.h"
+
+  export *
+  module * { export * }
+}

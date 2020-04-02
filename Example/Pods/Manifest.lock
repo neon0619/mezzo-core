@@ -1,0 +1,16 @@
+PODS:
+  - mezzo-core (0.1.0)
+
+DEPENDENCIES:
+  - mezzo-core (from `../`)
+
+EXTERNAL SOURCES:
+  mezzo-core:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mezzo-core: 276a57b5e9d6351a2c0c0d8733414027e401dd4c
+
+PODFILE CHECKSUM: e409f1d27d71fb23a1cbb158b9b4e82410156191
+
+COCOAPODS: 1.9.1

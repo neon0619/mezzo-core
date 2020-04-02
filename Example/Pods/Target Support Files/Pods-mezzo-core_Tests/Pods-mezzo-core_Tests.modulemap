@@ -1,0 +1,6 @@
+framework module Pods_mezzo_core_Tests {
+  umbrella header "Pods-mezzo-core_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
